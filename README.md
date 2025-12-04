@@ -2,7 +2,8 @@
 
 (Please find the original Y-net README below and the [original repository here](https://github.com/HarshayuGirase/Human-Path-Prediction/tree/master/ynet)).
 
-
+## Data
+Please download the data from this drive (copy and paste all the folders in the main repo) [https://drive.google.com/drive/folders/1j4C8zy0ZxYF8d2z-pSMaBY71lzXMSviQ?usp=drive_link]
 ## Installation
 
 `
